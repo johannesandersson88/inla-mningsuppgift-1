@@ -10,6 +10,8 @@ Du ska i denna inlämningsuppgift göra ett tärningsspel där man slår tre tä
 * Spelaren med högst summerat värde vinner. Max poäng är 18.
 * Visa med vackert gränssnitt gjord med HTML och CSS.
 * Det ska kunna gå att spela igen.
+* Det ska finnas en dator som poängen slumpas för och sedan
+  jämförs spelarens poäng och datorns poäng och en vinnare utses.
 
 ## Krav för godkänt
 
