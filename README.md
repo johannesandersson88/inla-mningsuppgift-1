@@ -4,8 +4,8 @@ Du ska i denna inlämningsuppgift göra ett tärningsspel där man slår tre tä
 
 ## Hur det ska fungera
 * Spelet har 3st tärningar.
-* Kasta tärningarna och spara tärningen med högsta värdet.
-* Kasta de kvarvarande 2 och spara tärningen med högsta värdet.
+* Kasta första tärningen och spara värdet.
+* Kasta den andra tärningen och spara värdet.
 * Kasta sista tärningen och summera samtliga tre tärningar.
 * Spelaren med högst summerat värde vinner. Max poäng är 18.
 * Visa med vackert gränssnitt gjord med HTML och CSS.
