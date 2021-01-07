@@ -21,4 +21,4 @@ Du ska i denna inlämningsuppgift göra ett tärningsspel där man slår tre tä
 ## Inlämning
 
 Inlämning är på Github i det repo som skapades via Github Classroom. Ta länken till ditt repo och
-lägg till som en kommentar på Ping Pong och lämna in uppgiften där senast **12 jan 2021 18:00**.
+lägg till som en kommentar på Ping Pong och lämna in uppgiften där senast **12 jan 2021 23:59**.
