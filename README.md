@@ -4,9 +4,9 @@ Du ska i denna inlämningsuppgift göra ett tärningsspel där man slår tre tä
 
 ## Hur det ska fungera
 * Spelet har 3st tärningar.
-* Kasta första tärningen och spara värdet.
-* Kasta den andra tärningen och spara värdet.
-* Kasta sista tärningen och summera samtliga tre tärningar.
+* Kasta första tärningen och spara värdet. Tärningen ska inte gå att kastas igen under samma rond.
+* Kasta den andra tärningen och spara värdet. Tärningen ska inte gå att kastas igen under samma rond.
+* Kasta sista tärningen och summera samtliga tre tärningar. Tärningen ska inte gå att kastas igen under samma rond.
 * Spelaren med högst summerat värde vinner. Max poäng är 18.
 * Visa med vackert gränssnitt gjord med HTML och CSS.
 * Det ska kunna gå att spela igen.
