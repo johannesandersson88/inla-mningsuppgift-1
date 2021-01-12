@@ -1,3 +1,19 @@
+ReadMe för spel.
+
+
+Tryck på Play för att starta spelet. Tärningarna visar ett random värde, med början på spelarens första tärning, sen datorn och så vidare.
+När alla tärningar fått ett värde visas resultat i mitten, där det står din totala poäng för spelare, och sedan datorns. Sen visas det tydligt vem som vann. 
+
+Vill du spela igen är det bara att trycka på knappen NewGame, då försvinner alla poäng och resultat och du kan trycka på Play igen. 
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
